@@ -1,6 +1,7 @@
 body {
     background-image: url("http://homepage3.nifty.com/abe-hiroshi/abe-top2-4.jpg");
     background-repeat: repeat;
+    text-align:center;
 }
 .parag { 
     width: 600px;
