@@ -1,47 +1,8 @@
-  body
-{
-	background-image: url("‚ª‚¼‚¤.jpg");
-	background-repeat: repeat;
+body {
+    background-image: url("http://homepage3.nifty.com/abe-hiroshi/abe-top2-4.jpg");
+    background-repeat: repeat;
 }
-
-
-  h1
- {
- 
-	font-size: 3rem;
-	margin-bottom: 30px;
- 
-	margin: 0 auto;  
- }
-  
-
-h2 
-{
-
-	font-size: 1.3rem;
-	font-weight: bold;
- 
-}
- 
-
-p
- {
-
-	margin-bottom: 20px;
-
-}
- 
-
-.parag
- { 
-	width: 600px;
- 	-moz-column-count: 2;
-
-	 -webkit-column-count: 2;
-
-	 -o-column-count: 2;
-
-	-ms-column-count: 2;
- 
-	margin: 0 auto;  
+.parag { 
+    width: 600px;
+    margin: 0 auto;
 }
